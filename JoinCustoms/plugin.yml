@@ -1,0 +1,7 @@
+---
+name: JoinCustoms
+version: 0.0.1
+main: ryo5828\JoinCustoms\Main
+api: 4.2.0
+src-namespace-prefix: ryo5828\JoinCustoms
+...

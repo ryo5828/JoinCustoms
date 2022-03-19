@@ -1,0 +1,21 @@
+message:
+  # サーバー参加時に表示されるpopメッセージ
+  JoinServerMessage: "§d§l Welcome to Yumemi"
+
+item:
+  # アイテム I
+  item1: "268" # id
+  name1: "見習いの剣" # アイテム名指定
+  # アイテム II
+  item2: "345" # id
+  name2: "§4 GAME" # アイテム名指定
+
+NIGHT_VISION:
+  # on/off (True/False)
+  effect: True
+  # 時間(72000/1時間)
+  duration: "72000"
+  # レベル
+  level: "1"
+  #パーティクル on/off (True/False)
+  particle: True
